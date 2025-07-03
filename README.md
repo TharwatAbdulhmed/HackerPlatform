@@ -4,7 +4,7 @@
 
 🔹 Backend
 
-.NET 7 / .NET 6 (ASP.NET Core Web API)
+.NET 8 / .NET 7 (ASP.NET Core Web API)
 
 Entity Framework Core (ORM)
 
