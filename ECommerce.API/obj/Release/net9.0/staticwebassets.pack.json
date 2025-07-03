@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\1e34995e-bf6a-4353-8de1-41a85ef64009.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1e34995e-bf6a-4353-8de1-41a85ef64009.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\5d44535c-3eff-471d-84bc-9f44306e5967.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5d44535c-3eff-471d-84bc-9f44306e5967.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\ca2b2176-1091-4871-9019-d80a851d62fe.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ca2b2176-1091-4871-9019-d80a851d62fe.jpg"
+    },
+    {
+      "Id": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\f921a17f-a389-4425-b45d-48c7fd1ddc26.png",
+      "PackagePath": "staticwebassets\\images\\products\\f921a17f-a389-4425-b45d-48c7fd1ddc26.png"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.E_CommerceV1_Model_6.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.E_CommerceV1_Model_6.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.E_CommerceV1_Model_6.API.props",
+      "PackagePath": "build\\E_CommerceV1_Model_6.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.E_CommerceV1_Model_6.API.props",
+      "PackagePath": "buildMultiTargeting\\E_CommerceV1_Model_6.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.E_CommerceV1_Model_6.API.props",
+      "PackagePath": "buildTransitive\\E_CommerceV1_Model_6.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

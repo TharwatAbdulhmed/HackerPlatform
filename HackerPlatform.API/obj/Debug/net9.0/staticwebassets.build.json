@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sRKvIBE0zZ2LDMt33k3MokE1O2aC6BGQXqS6B5S6fIc=",
+  "Source": "HackerPlatform.API",
+  "BasePath": "_content/HackerPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\bin\Debug\net9.0\HackerPlatform.Infrastructure.deps.json
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\bin\Debug\net9.0\HackerPlatform.Infrastructure.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\bin\Debug\net9.0\HackerPlatform.Infrastructure.pdb
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\bin\Debug\net9.0\HackerPlatform.Core.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\bin\Debug\net9.0\HackerPlatform.Core.pdb
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.AssemblyInfo.cs
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPl.6B5F8EFD.Up2Date
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\refint\HackerPlatform.Infrastructure.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.pdb
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\ref\HackerPlatform.Infrastructure.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\bin\Debug\net9.0\HackerPlatform.Infrastructure.runtimeconfig.json
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Infrastructure\obj\Debug\net9.0\HackerPlatform.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "IFK570HGCRo5pgx/BpX4UHLS+nw1PaaQ97xHe19EdF0=",
+  "Source": "E_CommerceV1_Model_6.API",
+  "BasePath": "_content/E_CommerceV1_Model_6.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E_CommerceV1_Model_6.API\\wwwroot",
+      "Source": "E_CommerceV1_Model_6.API",
+      "ContentRoot": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/E_CommerceV1_Model_6.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\1e34995e-bf6a-4353-8de1-41a85ef64009.jpg",
+      "SourceId": "E_CommerceV1_Model_6.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/E_CommerceV1_Model_6.API",
+      "RelativePath": "images/products/1e34995e-bf6a-4353-8de1-41a85ef64009#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xkj5bznpts",
+      "Integrity": "YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\1e34995e-bf6a-4353-8de1-41a85ef64009.jpg"
+    },
+    {
+      "Identity": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\5d44535c-3eff-471d-84bc-9f44306e5967.jpg",
+      "SourceId": "E_CommerceV1_Model_6.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/E_CommerceV1_Model_6.API",
+      "RelativePath": "images/products/5d44535c-3eff-471d-84bc-9f44306e5967#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "52h1g29yx4",
+      "Integrity": "nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5d44535c-3eff-471d-84bc-9f44306e5967.jpg"
+    },
+    {
+      "Identity": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\ca2b2176-1091-4871-9019-d80a851d62fe.jpg",
+      "SourceId": "E_CommerceV1_Model_6.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/E_CommerceV1_Model_6.API",
+      "RelativePath": "images/products/ca2b2176-1091-4871-9019-d80a851d62fe#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l08fppkghy",
+      "Integrity": "VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\ca2b2176-1091-4871-9019-d80a851d62fe.jpg"
+    },
+    {
+      "Identity": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\f921a17f-a389-4425-b45d-48c7fd1ddc26.png",
+      "SourceId": "E_CommerceV1_Model_6.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/E_CommerceV1_Model_6.API",
+      "RelativePath": "images/products/f921a17f-a389-4425-b45d-48c7fd1ddc26#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cqph2hlat4",
+      "Integrity": "fG1zMf+afU/+pEKbiHaz7ufWy2Fz5Vw/jtajLIOFs8c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\f921a17f-a389-4425-b45d-48c7fd1ddc26.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/products/1e34995e-bf6a-4353-8de1-41a85ef64009.jpg",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\1e34995e-bf6a-4353-8de1-41a85ef64009.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1281484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 00:33:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/1e34995e-bf6a-4353-8de1-41a85ef64009.xkj5bznpts.jpg",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\1e34995e-bf6a-4353-8de1-41a85ef64009.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1281484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 00:33:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xkj5bznpts"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/1e34995e-bf6a-4353-8de1-41a85ef64009.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YfmtWZE1P+g/zg5j7F4jvlu+VhABVnnCXoPQayzNJE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5d44535c-3eff-471d-84bc-9f44306e5967.52h1g29yx4.jpg",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\5d44535c-3eff-471d-84bc-9f44306e5967.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52h1g29yx4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/5d44535c-3eff-471d-84bc-9f44306e5967.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5d44535c-3eff-471d-84bc-9f44306e5967.jpg",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\5d44535c-3eff-471d-84bc-9f44306e5967.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nXSNrv5rTKcu3ugJQP/xrY9xgq0lpgow5k8GCFKH0Jw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ca2b2176-1091-4871-9019-d80a851d62fe.jpg",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\ca2b2176-1091-4871-9019-d80a851d62fe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 05:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ca2b2176-1091-4871-9019-d80a851d62fe.l08fppkghy.jpg",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\ca2b2176-1091-4871-9019-d80a851d62fe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 05:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l08fppkghy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/ca2b2176-1091-4871-9019-d80a851d62fe.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdOfvlGxUOxon+fCabHgQB3/oaUvWShSvrqSPhtysrs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f921a17f-a389-4425-b45d-48c7fd1ddc26.cqph2hlat4.png",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\f921a17f-a389-4425-b45d-48c7fd1ddc26.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fG1zMf+afU/+pEKbiHaz7ufWy2Fz5Vw/jtajLIOFs8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 16:39:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cqph2hlat4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/f921a17f-a389-4425-b45d-48c7fd1ddc26.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fG1zMf+afU/+pEKbiHaz7ufWy2Fz5Vw/jtajLIOFs8c="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f921a17f-a389-4425-b45d-48c7fd1ddc26.png",
+      "AssetFile": "E:\\Projects_Net\\APIs\\HackerPlatform\\ECommerce.API\\wwwroot\\images\\products\\f921a17f-a389-4425-b45d-48c7fd1ddc26.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fG1zMf+afU/+pEKbiHaz7ufWy2Fz5Vw/jtajLIOFs8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 16:39:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fG1zMf+afU/+pEKbiHaz7ufWy2Fz5Vw/jtajLIOFs8c="
+        }
+      ]
+    }
+  ]
+}

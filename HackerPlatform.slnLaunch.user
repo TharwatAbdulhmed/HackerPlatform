@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "HackerPlatform.API\\HackerPlatform.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECommerce.API\\E_CommerceV1_Model_6.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

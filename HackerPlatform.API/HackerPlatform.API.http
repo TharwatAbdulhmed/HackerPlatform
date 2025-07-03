@@ -1,0 +1,6 @@
+@HackerPlatform.API_HostAddress = http://localhost:5023
+
+GET {{HackerPlatform.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

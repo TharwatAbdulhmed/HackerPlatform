@@ -1,0 +1,14 @@
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\bin\Release\net9.0\HackerPlatform.Core.deps.json
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\bin\Release\net9.0\HackerPlatform.Core.runtimeconfig.json
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\bin\Release\net9.0\HackerPlatform.Core.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\bin\Release\net9.0\HackerPlatform.Core.pdb
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.csproj.AssemblyReference.cache
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.AssemblyInfoInputs.cache
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.AssemblyInfo.cs
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.csproj.CoreCompileInputs.cache
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\refint\HackerPlatform.Core.dll
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.pdb
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\HackerPlatform.Core.genruntimeconfig.cache
+E:\Projects_Net\APIs\HackerPlatform\HackerPlatform.Core\obj\Release\net9.0\ref\HackerPlatform.Core.dll

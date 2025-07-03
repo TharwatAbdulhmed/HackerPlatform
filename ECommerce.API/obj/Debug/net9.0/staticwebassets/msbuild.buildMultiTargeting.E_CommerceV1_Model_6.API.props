@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E_CommerceV1_Model_6.API.props" />
+</Project>

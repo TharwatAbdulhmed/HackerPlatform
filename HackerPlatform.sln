@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerPlatform.Core", "HackerPlatform.Core\HackerPlatform.Core.csproj", "{900BDD90-11C0-4581-B4E8-AD7A6D2F6525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerPlatform.Infrastructure", "HackerPlatform.Infrastructure\HackerPlatform.Infrastructure.csproj", "{62D25669-6D7D-49C3-8927-1A5E26237289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerPlatform.API", "HackerPlatform.API\HackerPlatform.API.csproj", "{83858C42-F95D-49DD-B0D8-DEF4674C3077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_CommerceV1_Model_6.API", "ECommerce.API\E_CommerceV1_Model_6.API.csproj", "{13933E4D-97E2-445E-B94B-943E307CFA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900BDD90-11C0-4581-B4E8-AD7A6D2F6525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900BDD90-11C0-4581-B4E8-AD7A6D2F6525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900BDD90-11C0-4581-B4E8-AD7A6D2F6525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900BDD90-11C0-4581-B4E8-AD7A6D2F6525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D25669-6D7D-49C3-8927-1A5E26237289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D25669-6D7D-49C3-8927-1A5E26237289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D25669-6D7D-49C3-8927-1A5E26237289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D25669-6D7D-49C3-8927-1A5E26237289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83858C42-F95D-49DD-B0D8-DEF4674C3077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83858C42-F95D-49DD-B0D8-DEF4674C3077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83858C42-F95D-49DD-B0D8-DEF4674C3077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83858C42-F95D-49DD-B0D8-DEF4674C3077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13933E4D-97E2-445E-B94B-943E307CFA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13933E4D-97E2-445E-B94B-943E307CFA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13933E4D-97E2-445E-B94B-943E307CFA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13933E4D-97E2-445E-B94B-943E307CFA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
